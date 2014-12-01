@@ -1,5 +1,4 @@
 iceberg
 =======
-#此目录用作学习开发JQuery的插件
+#此目录用作维护个人项目功能（jQuery插件，日程表功能，视频库）
 
-JQueryPlugin
